@@ -15,7 +15,6 @@
     height: 100px;
     background-color: white;
     box-shadow: 0 0 10px 5px #E1D4BB;
-
 }
 
 .box {
@@ -51,7 +50,7 @@
     border-radius: 20px;
     width: 30vw;
     text-align: center;
-    background-color: hsla(39, 39%, 81%, 0.5);
+    background-color: hsla(39, 39%, 81%, 0.8);
     padding: 1vmax;
 }
 
@@ -73,6 +72,8 @@
     margin-top: 1vmax;
     padding: 0.5vmax 1vmax;
     transition: 0.5s;
+    font-family: serif;
+    font-size: 1rem;
 }
 
 .content button:hover{

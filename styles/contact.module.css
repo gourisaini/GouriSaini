@@ -36,10 +36,11 @@
     background-color: #E1D4BB;
     color: black;
     padding: 0.6vmax 3vmax;
+    box-shadow: 0 0 8px grey;
 }
 
 .center h4 {
-    font-weight: 600;
+    font-size: 1.2rem;
     width: 60%;
     padding: 2vmax 0;
 }
@@ -58,16 +59,19 @@
     background-color: white;
     border: none;
     border-radius: 1vmax;
+    box-shadow: 0 0 8px grey;
 }
 
 .content button {
+    box-shadow: 0 0 8px grey;
     background-color: #E1D4BB;
     border: none;
     padding: 0.5vmax 0;
     border-radius: 1vmax;
     color: black;
-    font-size: 1vmax;
-    font-weight: 600;
+    font-family: serif;
+    font-size: 1.1rem;
+    font-weight: 900;
 }
 
 
@@ -78,8 +82,12 @@
         padding: 0 1vmax ;
     }
 
-    .side h2, .side i{
+    .side h2{
         font-size: large;
+    }
+
+    .side i{
+        font-size: 1.5rem;
     }
 
     .content {
@@ -87,10 +95,10 @@
     }
 
     .center h4{
+        font-size: 1rem;
         padding: 3vmax 0;
     }
     .content button {
         padding: 1vmax 0;
-        font-size: 1.8vmax;
     }
 }

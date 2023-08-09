@@ -12,7 +12,7 @@ const contact = () => {
       </Head>
       <div className={styles.main}>
         <div className={styles.side}>
-          <h2><i>Let's connect and discuss exciting projects! Feel free to reach out to me.</i></h2>
+          <h2><em>Let's connect and discuss exciting projects! Feel free to reach out to me.</em></h2>
         </div>
         <Message />
         <div className={styles.side}>

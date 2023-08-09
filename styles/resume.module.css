@@ -16,11 +16,12 @@
 }
 
 .btn {
+    font-family: serif;
     padding: 1rem 2rem;
     background-color: #efcfc2;
     border: none;
     color: rgb(55, 55, 55);
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 600;
     transition: 0.25s;
     border: 1px solid #efcfc2;

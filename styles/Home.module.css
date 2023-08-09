@@ -16,11 +16,6 @@
 }
 
 
-.code {
-  font-weight: 700;
-  font-family: var(--font-mono);
-}
-
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(25%, auto));
@@ -42,13 +37,15 @@
 }
 
 .card h2 {
-  font-weight: 600;
+  font-family: serif;
+  font-size: 1.7rem;
+  font-weight: 900;
   margin-bottom: 0.7rem;
 }
 
 .card p {
   color: black;
-  font-weight: 500;
+  font-weight: 600;
   margin: 0;
   opacity: 0.6;
   font-size: 0.9rem;
@@ -71,6 +68,7 @@
 }
 
 .center h1 span{
+  font-family: serif;
   font-size: 3vmax;
   font-weight: 600;
   letter-spacing: normal;
@@ -104,16 +102,23 @@
 }
 
 .about{
-  background-color:hsla(39, 39%, 81%, 0.4);
+  background-color:hsla(39, 39%, 81%, 0.8);
   border-radius: 10%;
   text-align: center;
   width: 70%;
   margin: 2rem auto;
-  padding: 4rem;
+  padding: 4rem 8rem;
+}
+
+.about h3{
+  font-size: 1.1rem;
+  text-align: start;
 }
 
 .about p {
-  font-size: large;
+  font-family: sans-serif;
+  text-align: start;
+  font-size: 1rem;
   font-weight: 500;
   padding-bottom: 0.5rem;
 }
@@ -179,7 +184,7 @@
   }
   
   .center h1 span{
-    font-size: 4vmax;
+    font-size: 5vmax;
   }
   
   .develop{
@@ -196,7 +201,7 @@
     text-align: center;
     width: 100%;
     margin: 2rem auto;
-    padding: 1rem 2rem;
+    padding: 1rem 2.5rem;
   }
 }
 
