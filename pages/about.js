@@ -17,6 +17,15 @@ const about = () => {
           &rArr; Aspiring MERN stack developer with a strong passion for programming and innovative web applications. <br /> <br />
 
         </p>
+
+
+        <h3> Experience:  <hr /></h3> <br />
+        <p>
+          &rArr; MERN stack Intern at Zappian <br />
+          &rArr; September 5, 2023 - Present <br /><br />
+
+        </p>
+
         <h3>Passion for MERN Stack:</h3> <hr /> <br />
         <p>
           &rArr; True passion lies in web development, particularly the MERN stack  <br />
