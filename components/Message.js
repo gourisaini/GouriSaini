@@ -3,15 +3,6 @@ import styles from '@/styles/contact.module.css'
 import emailjs from "@emailjs/browser";
 
 const Message = () => {
-
-    // const messageHandler = (e) => {
-    //     e.preventDefault();
-    //     emailjs.sendForm('service_7sy3vuj', 'template_pobsl2c', e.target, 'tuicnCzxiCYQ0H1o5');
-    //     alert("Message sent successfully");
-    //     location.reload();
-    // }
-
-
     const form = useRef();
 
     const sendEmail = (e) => {

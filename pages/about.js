@@ -22,7 +22,7 @@ const about = () => {
         <h3> Experience:  <hr /></h3> <br />
         <p>
           &rArr; MERN stack Intern at Zappian <br />
-          &rArr; September 5, 2023 - Present <br /><br />
+          &rArr; September 5, 2023 - March 3,2024 <br /><br />
 
         </p>
 

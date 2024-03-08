@@ -12,9 +12,9 @@ const resume = () => {
 
         <button className={styles.btn}><a href="/contact">Hire Me</a></button>
         <div className={styles.CVimg}>
-        <img src="/Gouri Saini CV.jpg" alt="CV" />
+        <img src="/Gouri Saini CV.png" alt="CV" />
         </div>
-        <button className={styles.btn}><a href="/Gouri Saini CV(2).pdf" download>Download Resume</a></button>
+        <button className={styles.btn}><a href="/Gouri Saini CV.pdf" download>Download Resume</a></button>
       </div>
     </>
   )
